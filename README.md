@@ -1,5 +1,6 @@
 
-This project is a small Java application that demonstrates how to use MongoDB together with a simple DAO (Data Access Object) pattern. It shows how to:
+This project is a small Java application that demonstrates how to use MongoDB together with a simple DAO (Data Access Object) pattern. 
+It shows how to:
 • Connect to a MongoDB Atlas database
 • Insert movie documents
 • Retrieve all movies from a collection

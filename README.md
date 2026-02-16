@@ -5,3 +5,9 @@ It shows how to:
 • Insert movie documents
 • Retrieve all movies from a collection
 It’s a minimal example designed for learning and experimentation.
+
+Technologies Used
+• Java
+• MongoDB Atlas
+• MongoDB Java Driver
+• DAO design pattern

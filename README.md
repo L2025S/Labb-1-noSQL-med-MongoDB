@@ -6,7 +6,7 @@ It shows how to:<br>
 • Retrieve all movies from a collection.<br>
 It’s a minimal example designed for learning and experimentation. <br>
 
-Technologies Used;<br>
+Technologies Used:<br>
 • Java <br>
 • MongoDB Atlas <br>
 • MongoDB Java Driver <br>

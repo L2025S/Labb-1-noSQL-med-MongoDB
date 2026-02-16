@@ -1,13 +1,13 @@
 
-This project is a small Java application that demonstrates how to use MongoDB together with a simple DAO (Data Access Object) pattern. 
-It shows how to:
+This project is a small Java application that demonstrates how to use MongoDB together with a simple DAO (Data Access Object) pattern. <br>
+It shows how to:<br>
 • Connect to a MongoDB Atlas database;<br>
-• Insert movie documents;
-• Retrieve all movies from a collection. 
-It’s a minimal example designed for learning and experimentation.
+• Insert movie documents;;<br>
+• Retrieve all movies from a collection.<br>
+It’s a minimal example designed for learning and experimentation. <br>
 
-Technologies Used
-• Java
-• MongoDB Atlas
-• MongoDB Java Driver
-• DAO design pattern
+Technologies Used;<br>
+• Java <br>
+• MongoDB Atlas <br>
+• MongoDB Java Driver <br>
+• DAO design pattern <br>

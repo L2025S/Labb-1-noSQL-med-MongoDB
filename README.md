@@ -12,10 +12,10 @@ Technologies Used:<br>
 • MongoDB Java Driver <br>
 • DAO design pattern <br>
 
-src/
- └── main/java/
-      └── se/iths/lw/
-           ├── dao/
-           │    ├── MovieDAO.java
-           │    └── MovieDAOMongo.java
-           └── Main.java
+src/ <br>
+ └── main/java/ <br>
+      └── se/iths/lw/ <br>
+           ├── dao/ <br>
+           │    ├── MovieDAO.java <br>
+           │    └── MovieDAOMongo.java <br>
+           └── Main.java <br>

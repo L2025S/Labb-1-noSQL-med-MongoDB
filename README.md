@@ -11,11 +11,3 @@ Technologies Used:<br>
 • MongoDB Atlas <br>
 • MongoDB Java Driver <br>
 • DAO design pattern <br>
-
-src/ <br>
- └── main/java/ <br>
-      └── se/iths/lw/ <br>
-           ├── dao/ <br>
-           │    ├── MovieDAO.java <br>
-           │    └── MovieDAOMongo.java <br>
-           └── Main.java <br>
